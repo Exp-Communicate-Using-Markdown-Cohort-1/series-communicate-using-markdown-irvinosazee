@@ -13,3 +13,8 @@
 const name = "Irvin"
 console.log(`My name is ${name}`)
 ```
+
+## Making a task list
+- [x] Learn core tech tools
+- [x] Build projects
+- [ ] Get a job
